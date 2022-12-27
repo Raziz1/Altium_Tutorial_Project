@@ -2,6 +2,11 @@
 The following files were completed as a part of the Altium free PCB design course. Project A - A Power Regulator and LED Board. The PCB design course can be found at the following link below
 * [Altium Education Courses](https://education.altium.com/)
 
+This project goes over all the material covered in this course which includes
+* Schematics & Libraries
+* PCB Layout
+* Routing & Basic Signal Integrity
+* PCB Manufacturing
 
 ## Functional Requirements
 
