@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : PCB Document [PWR_REG_LED_PCB.PcbDoc]
+   Generated File[PWR_REG_LED_PCB.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:11:04 AM On 2022-12-27

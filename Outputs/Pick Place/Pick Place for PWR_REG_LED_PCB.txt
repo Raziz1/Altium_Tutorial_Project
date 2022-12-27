@@ -1,0 +1,28 @@
+Altium Designer Pick and Place Locations
+C:\Users\rahim\Desktop\Altium_Tutorial_Project\Tutorial_PWR_REG_LED\Project Outputs for Tutorial_PWR_REG_LED\Pick Place\Pick Place for PWR_REG_LED_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       27-12-22
+Time:       02:10
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                  Layer    Footprint             Center-X(mil) Center-Y(mil) Rotation Description                                                                                       
+U1         TPS562201DDCR            TopLayer FP-DDC0006A-IPC_C     1025.000      758.650       90       "IC REG BUCK ADJ 2A TSOT23-6"                                                                     
+Rfbt       CRCW020156K2FNED         TopLayer RESC0603X28X15NL05T05 1287.205      750.000       0        ""                                                                                                
+Rfbb       ERJ2RKF1002X             TopLayer RESC1005X40X25LL05T05 1284.252      800.000       180      "Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0402 (1005 Metric), RoHS, Tape and Reel" 
+L1         NRS8030T3R3MJGJ          TopLayer FP-NRS8030-MFG        1150.000      475.000       0        "Inductor Power Shielded Wirewound 3.3uH 20% 100KHz Ferrite 4.2A 24.7mO DCR T/R"                  
+J4         8-Pin-Header             TopLayer SAMTEC_SSQ-108-03-X-S 2150.000      2000.000      180      "8 Position Receptacle Connector Through Hole, Right Angle"                                       
+J3         10-Pin-Header            TopLayer SAMTEC_SSQ-110-03-X-S 1175.000      2000.000      180      "10 Position Receptacle Connector Through Hole, Right Angle"                                      
+J2         "1x6 Header"             TopLayer SAMTEC_SSQ-106-03-X-S 2250.000      100.000       180      "6 Position Receptacle Connector Through Hole"                                                    
+J1         8-Pin-Header             TopLayer SAMTEC_SSQ-108-03-X-S 1450.000      100.000       180      "8 Position Receptacle Connector Through Hole, Right Angle"                                       
+D2         MKRAWT-00-0000-0D0HG235H TopLayer CREE-MK-R-2_V         2125.000      1275.000      0        "LED, White, 12 V, 2-Pin SMD, RoHS, Tape and Reel"                                                
+D1         MKRAWT-00-0000-0D0HG235H TopLayer CREE-MK-R-2_V         2125.000      825.000       0        "LED, White, 12 V, 2-Pin SMD, RoHS, Tape and Reel"                                                
+Cout2      CC0805KRX7R8BB104        TopLayer FP-CC0805-0_85-MFG    1600.000      786.417       90       "CAP CER 0.1UF 25V X7R 0805"                                                                      
+Cout1      CC0805KRX7R8BB104        TopLayer FP-CC0805-0_85-MFG    1450.000      786.417       90       "CAP CER 0.1UF 25V X7R 0805"                                                                      
+Cin2       CC0805KRX7R8BB104        TopLayer FP-CC0805-0_85-MFG    750.000       750.000       270      "CAP CER 0.1UF 25V X7R 0805"                                                                      
+Cin1       CC0805KRX7R8BB104        TopLayer FP-CC0805-0_85-MFG    575.000       750.000       270      "CAP CER 0.1UF 25V X7R 0805"                                                                      
+Cbst       CC0805KRX7R8BB104        TopLayer FP-CC0805-0_85-MFG    925.000       561.417       90       "CAP CER 0.1UF 25V X7R 0805"                                                                      

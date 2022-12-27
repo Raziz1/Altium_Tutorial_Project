@@ -1,0 +1,371 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 2 26.035 19.26970746 270 N U1 TPS562201DDCR ;0=1,1=4.2100
+PRP Case/Package 'SOT'
+PRP Contact_Plating 'Tin'
+PRP Lead_Free 'Lead Free'
+PRP Max_Input_Voltage '17V'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Output_Current '2A'
+PRP Min_Input_Voltage '4.5V'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Outputs '1'
+PRP Number_of_Pins '6'
+PRP Operating_Supply_Voltage '17V'
+PRP Output_Type 'Adjustable'
+PRP Output_Voltage '7V'
+PRP Quiescent_Current '400uA'
+PRP RoHS_Compliant 'Yes'
+PRP Switching_Frequency '580kHz'
+TOP 0 25.08499936 18.21941492 270 N 7 14 1
+TOP 1 26.035 18.21941492 270 N 1 3 2
+TOP 2 26.98500064 18.21941492 270 N 30 3 3
+TOP 3 26.98500064 20.32 270 N 3 2 4
+TOP 4 26.035 20.32 270 N 30 4 5
+TOP 5 25.08499936 20.32 270 N 4 0 6
+#
+# CMP 1
+CMP 4 32.69499938 19.05 0 N Rfbt CRCW020156K2FNED ;0=1,1=0.2800
+PRP Manufacturer 'Vishay Dale'
+PRP Part_Number 'CRCW020156K2FNED'
+TOP 0 32.36999876 19.05 270 N 3 1 1
+TOP 1 33.02 19.05 270 N 31 1 2
+#
+# CMP 2
+CMP 5 32.6200008 20.32 180 N Rfbb ERJ2RKF1002X ;0=1,1=0.4000
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case\/Package '0402'
+PRP Composition 'ThickFilm'
+PRP Contact_Plating 'Tin'
+PRP Datasheet_URL 'https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf'
+PRP Datasheet_Version '02/2017'
+PRP Depth '0.5mm'
+PRP Height '0.35mm'
+PRP Lead_Free 'LeadFree'
+PRP Length '1mm'
+PRP Manufacturer 'Panasonic'
+PRP Manufacturer_URL 'http://www.panasonic.com/'
+PRP Max_Operating_Temperature '155degC'
+PRP Max_Power_Dissipation '100mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55degC'
+PRP Mount 'SurfaceMount'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Number_of_Pins '2'
+PRP Number_of_Terminations '2'
+PRP Package_Description '2-Pin Surface Mount Device, Body 1 x 0.5 mm'
+PRP Package_Quantity '1'
+PRP Package_Reference '402'
+PRP Packaging 'TapeandReel'
+PRP Power_Rating '100mW'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'NoSVHC'
+PRP Resistance '10KOhm'
+PRP RoHSCompliant 'True'
+PRP Temperature_Coefficient '100ppm\/degreesC'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.02inch'
+TOP 0 33.02 20.32 90 N 7 10 1
+TOP 1 32.21999906 20.32 90 N 3 0 2
+#
+# CMP 3
+CMP 3 29.21 12.065 0 N L1 NRS8030T3R3MJGJ ;0=1,1=4.2100
+PRP Case/Package 'Nonstandard'
+PRP Core_Material 'Ferrite'
+PRP Current_Rating '4.3A'
+PRP DC_Resistance_(DCR) '19mR'
+PRP Depth '8.2mm'
+PRP Halogen_Free 'Halogen Free'
+PRP Height '3mm'
+PRP Height_-_Seated_(Max) '0.118inch'
+PRP Inductance '3.3uH'
+PRP Inductance_Tolerance '20%'
+PRP Lead_Free 'Lead Free'
+PRP Lead_Pitch '5.6mm'
+PRP Length '8mm'
+PRP Max_DC_Current '4.2A'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-25°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1000'
+PRP Packaging 'Tape and Reel'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Resistor_Type 'Wirewound'
+PRP RMS_Current_(Irms) '4.3A'
+PRP RoHS_Compliant 'Yes'
+PRP Saturation_Current '4.2A'
+PRP Self_Resonant_Frequency '50MHz'
+PRP Series 'NRS'
+PRP Shielding 'Shielded'
+PRP Termination 'SMD/SMT'
+PRP Test_Frequency '100kHz'
+PRP Tolerance '20%'
+PRP Width '0.315inch'
+TOP 0 26.41000052 12.065 0 N 1 1 1
+TOP 1 32.00999948 12.065 0 N 31 4 2
+#
+# CMP 4
+CMP 7 54.61 50.8 180 N J4 8-Pin-Header ;0=2,1=4.2100
+PRP Availability 'Bad'
+PRP Check_prices 'https://www.snapeda.com/parts/SSQ-108-03-L-S/Samtec/view-part/3352745/?ref=eda'
+PRP MF 'Samtec'
+PRP MP 'SSQ-108-03-L-S'
+PRP Package 'None'
+PRP Price 'None'
+PRP Purchase-URL 'https://pricing.snapeda.com/search/part/SSQ-108-03-L-S/?ref=eda'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SSQ-108-03-L-S/Samtec/view-part/3352745/?ref=snap'
+PRP Value ''
+TOP 0 45.72 50.8 180 N 14 0 01
+TOP 1 48.26 50.8 180 N 15 0 02
+TOP 2 50.8 50.8 180 N 16 0 03
+TOP 3 53.34 50.8 180 N 17 0 04
+TOP 4 55.88 50.8 180 N 18 0 05
+TOP 5 58.42 50.8 180 N 19 0 06
+TOP 6 60.96 50.8 180 N 20 0 07
+TOP 7 63.5 50.8 180 N 21 0 08
+#
+# CMP 5
+CMP 8 29.845 50.8 180 N J3 10-Pin-Header ;0=2,1=4.2100
+PRP Availability 'Bad'
+PRP Check_prices 'https://www.snapeda.com/parts/SSQ-110-03-L-S/Samtec/view-part/3589021/?ref=eda'
+PRP MF 'Samtec'
+PRP MP 'SSQ-110-03-L-S'
+PRP Package 'None'
+PRP Price 'None'
+PRP Purchase-URL 'https://pricing.snapeda.com/search/part/SSQ-110-03-L-S/?ref=eda'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SSQ-110-03-L-S/Samtec/view-part/3589021/?ref=snap'
+PRP Value ''
+TOP 0 18.415 50.8 180 N 24 1 01
+TOP 1 20.955 50.8 180 N 23 1 02
+TOP 2 23.495 50.8 180 N 22 0 03
+TOP 3 26.035 50.8 180 N 7 11 04
+TOP 4 28.575 50.8 180 N 8 0 05
+TOP 5 31.115 50.8 180 N 9 0 06
+TOP 6 33.655 50.8 180 N 10 0 07
+TOP 7 36.195 50.8 180 N 11 0 08
+TOP 8 38.735 50.8 180 N 12 0 09
+TOP 9 41.275 50.8 180 N 13 0 10
+#
+# CMP 6
+CMP 6 57.15 2.54 180 N J2 1x6_Header ;0=2,1=4.2100
+PRP Availability 'Bad'
+PRP Check_prices 'https://www.snapeda.com/parts/SSQ-106-03-L-S/Samtec/view-part/3331053/?ref=eda'
+PRP MF 'Samtec'
+PRP MP 'SSQ-106-03-L-S'
+PRP Package 'None'
+PRP Price 'None'
+PRP Purchase-URL 'https://pricing.snapeda.com/search/part/SSQ-106-03-L-S/?ref=eda'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SSQ-106-03-L-S/Samtec/view-part/3331053/?ref=snap'
+PRP Value ''
+TOP 0 50.8 2.54 180 N 28 0 01
+TOP 1 53.34 2.54 180 N 27 0 02
+TOP 2 55.88 2.54 180 N 26 0 03
+TOP 3 58.42 2.54 180 N 25 0 04
+TOP 4 60.96 2.54 180 N 24 0 05
+TOP 5 63.5 2.54 180 N 23 0 06
+#
+# CMP 7
+CMP 7 36.83 2.54 180 N J1 8-Pin-Header ;0=2,1=4.2100
+PRP Availability 'Bad'
+PRP Check_prices 'https://www.snapeda.com/parts/SSQ-108-03-L-S/Samtec/view-part/3352745/?ref=eda'
+PRP MF 'Samtec'
+PRP MP 'SSQ-108-03-L-S'
+PRP Package 'None'
+PRP Price 'None'
+PRP Purchase-URL 'https://pricing.snapeda.com/search/part/SSQ-108-03-L-S/?ref=eda'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SSQ-108-03-L-S/Samtec/view-part/3352745/?ref=snap'
+PRP Value ''
+TOP 0 27.94 2.54 180 N 5 0 01
+TOP 1 30.48 2.54 180 N 6 0 02
+TOP 2 33.02 2.54 180 N 2 0 03
+TOP 3 35.56 2.54 180 N 29 0 04
+TOP 4 38.1 2.54 180 N 31 3 05
+TOP 5 40.64 2.54 180 N 7 8 06
+TOP 6 43.18 2.54 180 N 7 7 07
+TOP 7 45.72 2.54 180 N 31 2 08
+#
+# CMP 8
+CMP 0 53.975 32.385 0 N D2 MKRAWT-00-0000-0D0HG235H ;0=1,1=4.2100
+TOP 0 50.97500092 32.385 0 N 30 1 1
+TOP 1 56.97499908 32.385 0 N 7 4 2
+TOP 2 53.975 32.385 0 N 7 5 3
+#
+# CMP 9
+CMP 0 53.975 20.955 0 N D1 MKRAWT-00-0000-0D0HG235H ;0=1,1=4.2100
+TOP 0 50.97500092 20.955 0 N 30 2 1
+TOP 1 56.97499908 20.955 0 N 7 3 2
+TOP 2 53.975 20.955 0 N 7 2 3
+#
+# CMP 10
+CMP 1 40.64 19.97499942 270 N Cout2 CC0805KRX7R8BB104 ;0=1,1=4.2100
+PRP Automotive 'No'
+PRP Capacitance '100 nF'
+PRP Category 'Cap'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf'
+PRP Device_Class_L1 'Passive Components'
+PRP Device_Class_L2 'Capacitors'
+PRP Device_Class_L3 'Ceramic Capacitors'
+PRP Digikey_Description 'CAP CER 0.1UF 25V X7R 0805'
+PRP Footprint_Url 'http://www.yageo.com/exep/pages/download/literatures/UPY-C_GEN_24.pdf'
+PRP Height '0.95mm'
+PRP Ipc_Land_Pattern_Name 'CAPC200125X85'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'CC0805KRX7R8BB104'
+PRP Material 'Ceramic'
+PRP Mouser_Description 'Multilayer Ceramic Capacitors MLCC - SMD/SMT 100nF 25V X7R 10%'
+PRP Octopart 'https://octopart.com/cc0805krx7r8bb104-yageo-39467766'
+PRP Package 'CC0805-0.85'
+PRP RoHS 'TRUE'
+PRP Temperature '-30°C to +85°C'
+PRP Temperature_Characteristic 'X7R'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-30°C'
+PRP Tolerance '0.1'
+PRP Value '100 nF'
+PRP Voltage_Rating '25 V'
+TOP 0 40.64 19.05 270 N 31 6 1
+TOP 1 40.64 20.89999884 270 N 7 6 2
+#
+# CMP 11
+CMP 1 36.83 19.97499942 270 N Cout1 CC0805KRX7R8BB104 ;0=1,1=4.2100
+PRP Automotive 'No'
+PRP Capacitance '100 nF'
+PRP Category 'Cap'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf'
+PRP Device_Class_L1 'Passive Components'
+PRP Device_Class_L2 'Capacitors'
+PRP Device_Class_L3 'Ceramic Capacitors'
+PRP Digikey_Description 'CAP CER 0.1UF 25V X7R 0805'
+PRP Footprint_Url 'http://www.yageo.com/exep/pages/download/literatures/UPY-C_GEN_24.pdf'
+PRP Height '0.95mm'
+PRP Ipc_Land_Pattern_Name 'CAPC200125X85'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'CC0805KRX7R8BB104'
+PRP Material 'Ceramic'
+PRP Mouser_Description 'Multilayer Ceramic Capacitors MLCC - SMD/SMT 100nF 25V X7R 10%'
+PRP Octopart 'https://octopart.com/cc0805krx7r8bb104-yageo-39467766'
+PRP Package 'CC0805-0.85'
+PRP RoHS 'TRUE'
+PRP Temperature '-30°C to +85°C'
+PRP Temperature_Characteristic 'X7R'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-30°C'
+PRP Tolerance '0.1'
+PRP Value '100 nF'
+PRP Voltage_Rating '25 V'
+TOP 0 36.83 19.05 270 N 31 5 1
+TOP 1 36.83 20.89999884 270 N 7 9 2
+#
+# CMP 12
+CMP 1 19.05 19.05 90 N Cin2 CC0805KRX7R8BB104 ;0=1,1=4.2100
+PRP Automotive 'No'
+PRP Capacitance '100 nF'
+PRP Category 'Cap'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf'
+PRP Device_Class_L1 'Passive Components'
+PRP Device_Class_L2 'Capacitors'
+PRP Device_Class_L3 'Ceramic Capacitors'
+PRP Digikey_Description 'CAP CER 0.1UF 25V X7R 0805'
+PRP Footprint_Url 'http://www.yageo.com/exep/pages/download/literatures/UPY-C_GEN_24.pdf'
+PRP Height '0.95mm'
+PRP Ipc_Land_Pattern_Name 'CAPC200125X85'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'CC0805KRX7R8BB104'
+PRP Material 'Ceramic'
+PRP Mouser_Description 'Multilayer Ceramic Capacitors MLCC - SMD/SMT 100nF 25V X7R 10%'
+PRP Octopart 'https://octopart.com/cc0805krx7r8bb104-yageo-39467766'
+PRP Package 'CC0805-0.85'
+PRP RoHS 'TRUE'
+PRP Temperature '-30°C to +85°C'
+PRP Temperature_Characteristic 'X7R'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-30°C'
+PRP Tolerance '0.1'
+PRP Value '100 nF'
+PRP Voltage_Rating '25 V'
+TOP 0 19.05 19.97499942 90 N 30 6 1
+TOP 1 19.05 18.12500058 90 N 7 12 2
+#
+# CMP 13
+CMP 1 14.605 19.05 90 N Cin1 CC0805KRX7R8BB104 ;0=1,1=4.2100
+PRP Automotive 'No'
+PRP Capacitance '100 nF'
+PRP Category 'Cap'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf'
+PRP Device_Class_L1 'Passive Components'
+PRP Device_Class_L2 'Capacitors'
+PRP Device_Class_L3 'Ceramic Capacitors'
+PRP Digikey_Description 'CAP CER 0.1UF 25V X7R 0805'
+PRP Footprint_Url 'http://www.yageo.com/exep/pages/download/literatures/UPY-C_GEN_24.pdf'
+PRP Height '0.95mm'
+PRP Ipc_Land_Pattern_Name 'CAPC200125X85'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'CC0805KRX7R8BB104'
+PRP Material 'Ceramic'
+PRP Mouser_Description 'Multilayer Ceramic Capacitors MLCC - SMD/SMT 100nF 25V X7R 10%'
+PRP Octopart 'https://octopart.com/cc0805krx7r8bb104-yageo-39467766'
+PRP Package 'CC0805-0.85'
+PRP RoHS 'TRUE'
+PRP Temperature '-30°C to +85°C'
+PRP Temperature_Characteristic 'X7R'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-30°C'
+PRP Tolerance '0.1'
+PRP Value '100 nF'
+PRP Voltage_Rating '25 V'
+TOP 0 14.605 19.97499942 90 N 30 5 1
+TOP 1 14.605 18.12500058 90 N 7 13 2
+#
+# CMP 14
+CMP 1 23.495 14.25999942 270 N Cbst CC0805KRX7R8BB104 ;0=1,1=4.2100
+PRP Automotive 'No'
+PRP Capacitance '100 nF'
+PRP Category 'Cap'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf'
+PRP Device_Class_L1 'Passive Components'
+PRP Device_Class_L2 'Capacitors'
+PRP Device_Class_L3 'Ceramic Capacitors'
+PRP Digikey_Description 'CAP CER 0.1UF 25V X7R 0805'
+PRP Footprint_Url 'http://www.yageo.com/exep/pages/download/literatures/UPY-C_GEN_24.pdf'
+PRP Height '0.95mm'
+PRP Ipc_Land_Pattern_Name 'CAPC200125X85'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'CC0805KRX7R8BB104'
+PRP Material 'Ceramic'
+PRP Mouser_Description 'Multilayer Ceramic Capacitors MLCC - SMD/SMT 100nF 25V X7R 10%'
+PRP Octopart 'https://octopart.com/cc0805krx7r8bb104-yageo-39467766'
+PRP Package 'CC0805-0.85'
+PRP RoHS 'TRUE'
+PRP Temperature '-30°C to +85°C'
+PRP Temperature_Characteristic 'X7R'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-30°C'
+PRP Tolerance '0.1'
+PRP Value '100 nF'
+PRP Voltage_Rating '25 V'
+TOP 0 23.495 13.335 270 N 1 2 1
+TOP 1 23.495 15.18499884 270 N 4 1 2
+#
