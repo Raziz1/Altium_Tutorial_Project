@@ -43,7 +43,8 @@ The power regulator design was made using the [WeBench platform](https://webench
 * Vin Max: 12 V 
 * Vout: 5 V 
 * Iout Max: 1 A
-This porject used the TPS562200 regulator design.
+
+This project used the TPS562200 regulator design.
 
 ## PCB layout
 Details related to the PCB layout & Stackup layout can be found in the output files above
